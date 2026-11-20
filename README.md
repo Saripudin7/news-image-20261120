@@ -1,8 +1,8 @@
-# news-image-20261120
+[![make.fun](https://make.fun/badge/news-image-20261120.svg)](https://make.fun/bounty/news-image-20261120)
+[![Rank](https://make.fun/badge/news-image-20261120/Saripudin7/news-image-20261120/rank.svg)](https://make.fun/bounty/news-image-20261120/leaderboard)
+[![Reward](https://make.fun/badge/news-image-20261120/Saripudin7/news-image-20261120/reward.svg)](https://make.fun/bounty/news-image-20261120)
 
-![make.fun badge](https://make.fun/api/competitions/news-image-20261120/badge.svg?repo=Saripudin7/news-image-20261120)
-![rank](https://make.fun/api/competitions/news-image-20261120/rank.svg?repo=Saripudin7/news-image-20261120)
-![reward](https://make.fun/api/competitions/news-image-20261120/reward.svg?repo=Saripudin7/news-image-20261120)
+# news-image-20261120
 
 One image summing up the world news of Friday 20 November 2026 for the
 make.fun bounty `news-image-20261120` ($250).
